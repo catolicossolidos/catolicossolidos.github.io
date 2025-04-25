@@ -1,4 +1,4 @@
-Copyright © 2024 Facundo I. Lattandi
+Copyright © 2025 Facundo I. Lattandi
 
 All rights reserved under applicable copyright laws. This copyright notice applies to all parts of the source code and associated files contained within this repository.
 
